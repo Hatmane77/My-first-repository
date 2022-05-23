@@ -2,3 +2,5 @@ oil,
 apples,
 oranges
 banane 
+watermelon
+grape
